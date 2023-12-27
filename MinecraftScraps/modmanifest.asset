@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+  m_Name: modmanifest
+  m_EditorClassIdentifier: 
+  modName: MinecraftScraps
+  version:
+    Major: 1
+    Minor: 0
+    Build: 0
+    Revision: 0
+  serializedVersion: 1.0.0.0
+  author: rainbow137
+  description: 'This mod is a template.
+
+
+    Assets used :
+
+    - https://assetstore.unity.com/packages/3d/props/tools/survival-game-tools-139872
+
+    -
+    https://assetstore.unity.com/packages/3d/environments/old-sea-port-environment-36897'
+  scraps:
+  - {fileID: 11400000, guid: 8033468cad1bba54d9627c950f15fca1, type: 2}
+  - {fileID: 11400000, guid: 858874b48ff40224a8dbe71e1045df11, type: 2}
+  - {fileID: 11400000, guid: a370845fe57595941a3c818aaa458a14, type: 2}
+  moons: []
+  assetBank: {fileID: 11400000, guid: 81d2ab0bec3621a49831c944c8238a33, type: 2}
