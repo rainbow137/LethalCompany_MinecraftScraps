@@ -4,7 +4,8 @@
 
 从致命公司里回收来自我的世界的废品吧
 
-废品的详细信息请参考我的github网页：https://github.com/rainbow137/LethalCompany_MinecraftScraps
+废品的详细信息请参考
+![概况](res/list.png)
 
 后续会更新更多我的世界废品！
 
