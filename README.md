@@ -4,9 +4,7 @@
 
 从致命公司里回收来自我的世界的废品吧
 
-废品的详细信息如下：
-
-![列表](res/list.png)
+废品的详细信息请参考我的github网页：https://github.com/rainbow137/LethalCompany_MinecraftScraps
 
 后续会更新更多我的世界废品！
 
@@ -18,13 +16,52 @@
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
 
-# 版本更新说明
+# 1.3.0
 
-1.2.0：更新更多生物废品（sheep，cow，pig，wolf，chicken），以及一个非常沉重的anvil！等待LethalExpansion开发出武器功能时会进一步更新钻石剑，钻石镐等废品！
+增加新的工具废品（diamond sword，diamond pickaxe）
 
-1.1.0：更新更多我的世界废品（apple，bee，chest，steve，villager）！并调整了一些物品的数值以及生成权重
+增加生物废品（zombie，ghast，spider）
 
-1.0.1：微调说明文档
+增加方块废品（tnt，pumkin）
 
-1.0.0：正式添加废品
+南瓜头现在会阻挡你的视野，这很好的还原了我的世界原版XD
+
+虽然工具废品仅仅只是废品，无法作为工具使用或者攻击，但是会在后续的版本 进行更新
+
+修改了部分废品的手持效果，放置在蹲下来放置时卡进地面
+
+将cow改成单手持有
+
+或许anvil和creeper会导电？
+
+考虑到LethalExpansion作为前置模组默认会将废品价值减少，现在普遍提高了MinecraftScraps的价值
+
+# 1.2.1
+
+微调说明文档
+
+# 1.2.0
+
+更新更多生物废品（sheep，cow，pig，wolf，chicken），以及一个非常沉重的anvil！
+
+等待LethalExpansion开发出武器功能时会进一步更新钻石剑，钻石镐等废品！
+
+# 1.1.0
+
+更新更多我的世界废品（apple，bee，chest，steve，villager）！并调整了一些物品的数值以及生成权重
+
+# 1.0.1
+
+微调说明文档
+
+# 1.0.0
+
+正式添加废品
+
+
+
+
+
+
+
 
