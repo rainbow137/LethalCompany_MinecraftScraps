@@ -18,6 +18,22 @@
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
 
+# 1.4.0
+
+现在工具废品（diamond sword，diamond pickaxe）真的可以被当做武器挥动了！（尽管在别人视角看起来会比较奇怪，但是在自己看来问题不大）
+
+添加了工具挥动音效
+
+钻石剑的伤害是原版铲子的两倍
+
+钻石镐的伤害是原版铲子的一倍
+
+修复了双持物品时的手部动画，调整了一些废品遮挡视野的问题（ghast）
+
+后续会继续更新带有特殊效果的物品（例如可以发光的火把，发光的鱿鱼，制造噪声的各种物品，甚至是弓！？）
+
+除此之外非常感谢HolographicWings的LethalSDK-Unity-Project支持！
+
 # 1.3.0
 
 增加新的工具废品（diamond sword，diamond pickaxe）
