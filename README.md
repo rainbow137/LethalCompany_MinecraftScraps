@@ -18,6 +18,10 @@
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
 
+# 1.4.1
+
+完全摆脱了LethalExpansion的前置需求，现在只需要LethalExpansionCore作为前置模组即可，这意味着可以与更多模组兼容
+
 # 1.4.0
 
 现在工具废品（diamond sword，diamond pickaxe）真的可以被当做武器挥动了！（尽管在别人视角看起来会比较奇怪，但是在自己看来问题不大）
