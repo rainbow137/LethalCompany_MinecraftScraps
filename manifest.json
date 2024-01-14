@@ -1,10 +1,10 @@
 {
   "name": "MinecraftScraps",
-  "version_number": "1.4.0",
+  "version_number": "1.4.1",
   "website_url": "https://github.com/rainbow137/LethalCompany_MinecraftScraps",
   "description": "Adds More Minecraft Scraps!",
   "dependencies": [
-    "HolographicWings-LethalExpansion-1.3.18",
+    "jockie-LethalExpansionCore-1.3.14",
     "BepInEx-BepInExPack-5.4.2100"
   ]
 }
