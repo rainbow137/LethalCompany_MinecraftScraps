@@ -4,11 +4,36 @@
 
 从致命公司里回收来自我的世界的废品吧
 
-废品的详细信息请参考
-
-![概况](res/list.png)
+废品的详细信息请参考我的github网页：https://github.com/rainbow137/LethalCompany_MinecraftScraps
 
 后续会更新更多我的世界废品！
+
+# 废品信息参考（实际价值会比列表显示的要低一些）
+
+| 物品名称         | 价值范围 | 重量 | 免费图生成权重 | 付费图生成权重 |
+|----------------|----------|------|------------|------------|
+| Minecraft anvil | 200-300  | 75   | 30         | 35         |
+| Minecraft apple | 60-80    | 5    | 30         | 40         |
+| Minecraft bee   | 70-100   | 10   | 25         | 35         |
+| Minecraft chest | 150-300  | 50   | 20         | 30         |
+| Minecraft chicken| 60-80    | 10   | 20         | 30         |
+| Minecraft cow    | 80-100   | 20   | 20         | 30         |
+| Minecraft creeper| 80-100   | 15   | 20         | 30         |
+| Minecraft diamond| 150-200  | 10   | 10         | 20         |
+| Minecraft diamond block| 400-500  | 80   | 10         | 20         |
+| Minecraft diamond pickaxe| 150-200  | 15   | 10         | 20         |
+| Minecraft diamond sword| 150-200  | 15   | 10         | 20         |
+| Minecraft ghast | 100-130  | 60   | 20         | 30         |
+| Minecraft pig    | 80-100   | 40   | 20         | 30         |
+| Minecraft pumpkin| 100-120  | 35   | 20         | 30         |
+| Minecraft sheep  | 100-120  | 30   | 20         | 30         |
+| Minecraft spider | 90-100   | 20   | 20         | 30         |
+| Minecraft steve  | 110-130  | 20   | 20         | 30         |
+| Minecraft tnt    | 130-140  | 30   | 20         | 30         |
+| Minecraft villager| 80-90  | 25   | 25         | 35         |
+| Minecraft wolf   | 80-100  | 25   | 20         | 30         |
+| Minecraft zombie | 80-100  | 30   | 20         | 30         |
+
 
 如果你也想加入更新团队，可以去我的github上一起制作！
 
@@ -17,6 +42,14 @@
 模型来源：https://sketchfab.com/3d-models/
 
 参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
+
+# 1.4.3
+
+微调说明文档
+
+# 1.4.2
+
+调整了废品的价值以及重量，沉重的物品应该更加值钱
 
 # 1.4.1
 
