@@ -6,7 +6,16 @@
 
 废品的详细信息请参考我的github网页：https://github.com/rainbow137/LethalCompany_MinecraftScraps
 
-后续会更新更多我的世界废品！
+后续或许不会再更新此模组...但是你可以在这里找到Unity工程文件（包含目前使用到的模型与音乐资源）：
+
+链接：https://pan.baidu.com/s/1IjBi_Dev7zcSp89E9OdV3A 
+提取码：hcat 
+
+由于Lethalexpansion的淘汰，本模组最多仅支持v49，但不排除有热爱这个模组的人去迁移到LLL作为前置
+
+模型来源：https://sketchfab.com/3d-models/
+
+参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
 
 # 废品信息参考（实际价值会比列表显示的要低一些）
 
@@ -33,15 +42,6 @@
 | Minecraft villager| 80-90  | 25   | 25         | 35         |
 | Minecraft wolf   | 80-100  | 25   | 20         | 30         |
 | Minecraft zombie | 80-100  | 30   | 20         | 30         |
-
-
-如果你也想加入更新团队，可以去我的github上一起制作！
-
-采用了LethalExpansion作为前置模组
-
-模型来源：https://sketchfab.com/3d-models/
-
-参考教程：https://github.com/HolographicWings/LethalSDK-Unity-Project/
 
 # 1.4.3
 
